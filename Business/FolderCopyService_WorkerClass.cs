@@ -263,21 +263,5 @@ namespace FolderCopyService.Business
             }
         }
         #endregion
-
-        #region Print FileDetails
-        public void PrintFileDetails(List<FileDetailsModel> list)
-        {
-            foreach (var item in list)
-            {
-                WriteToFile($"FolderId: {item.FolderId}");
-                WriteToFile($"FileName: {item.FileName}");
-                WriteToFile($"FileExtension: {item.FileExtension}");
-                WriteToFile($"FileStatus: {item.FileStatus}");
-                WriteToFile("---------------------------------------------\n");
-
-            }
-        }
-
-        #endregion
     }
 }
