@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderCopyService", "FolderCopyService.csproj", "{F384DC26-33FF-46C6-958F-0413D141F3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F384DC26-33FF-46C6-958F-0413D141F3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F384DC26-33FF-46C6-958F-0413D141F3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F384DC26-33FF-46C6-958F-0413D141F3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F384DC26-33FF-46C6-958F-0413D141F3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926AA03A-9587-4DD7-B5CE-1ECB3F73201C}
+	EndGlobalSection
+EndGlobal
