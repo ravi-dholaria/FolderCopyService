@@ -48,4 +48,3 @@ namespace FolderCopyService
 
 
 
-# Modified by script
